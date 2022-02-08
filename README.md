@@ -13,12 +13,16 @@ Use [PotPlayer Skin: theSimpleThing 2.0](https://www.deviantart.com/flydonkey/ar
 
 - For Chinese users, check [this website](https://post.smzdm.com/p/av7k34qm/) for more reference.
 
+#
+
 ### Set Logseq Skin
 
 Use [**Gruvbox**](https://gist.github.com/tallguyjenks/6afc75e52a3d52d475b9df9dafdecfd2) by
 [tallguyjenks](https://gist.github.com/tallguyjenks).
 
 1. Go to **{YOUR_LOGSEQ_STORAGE}\logseq**, replace the **config.edn** with **logseq-config.edn** and **custom.css** with **logseq-Gruvbox.css**.
+
+#
 
 ### Set Zotero Skin
 
@@ -27,16 +31,20 @@ Use [Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme), by [Ro
 1. Go to **C:\Users\User_name\AppData\Roaming\Zotero\Zotero\Profiles\user_profile.default**, create a folder called **chrome** and put the **userChrome.css** in it.
 2. Restart Zotero.
 
+#
+
 ### Set Win11 Cursor on Win10/other
 
 1. Go to **Settings > Personalization > Themes > Mouse cursor**
 2. Replace each one with the corresponding one and save it.
 
+#
+
 ### Set Steam Skin
 
 Use [Nord-for-Steam](https://github.com/freeek3/Nord-for-Steam), by [freeek3](https://github.com/freeek3)
 
-1.  Clone the repo.
+1.  Clone this repo.
 
         git clone https://github.com/freeek3/Nord-for-Steam.git
 
