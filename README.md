@@ -30,6 +30,7 @@ Use [Zotero-Dark-Theme](https://github.com/Rosmaninho/Zotero-Dark-Theme), by [Ro
 
 1. Go to **C:\Users\User_name\AppData\Roaming\Zotero\Zotero\Profiles\user_profile.default**, create a folder called **chrome** and put the **userChrome.css** in it.
 2. Restart Zotero.
+3. (Important) Watch this [README.md](https://github.com/charleschiu2012/Apps-Skin/tree/main/Zotero%20Skin#readme) to unleash Zotero.
 
 #
 
