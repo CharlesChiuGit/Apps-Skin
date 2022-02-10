@@ -22,6 +22,10 @@ Use [**Gruvbox**](https://gist.github.com/tallguyjenks/6afc75e52a3d52d475b9df9da
 
 1. Go to **{YOUR_LOGSEQ_STORAGE}\logseq**, replace the **config.edn** with **logseq-config.edn** and **custom.css** with **logseq-Gruvbox.css**.
 
+or
+
+Use [**logseq-nord**](https://github.com/nmartin84/logseq-nord?ref=codetea.com) by [nmartin84](https://github.com/nmartin84)
+
 #
 
 ### Set Zotero Skin
