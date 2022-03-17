@@ -5,4 +5,10 @@
 - Watch the [full tutorial ](https://www.researchgate.net/publication/325828616_Tutorial_The_Best_Reference_Manager_Setup_Zotero_ZotFile_Cloud_Storage) by [Stephen Chignell](https://www.researchgate.net/profile/Stephen-Chignell).
 - Noted: the **engines.json** he provided was invalid, use this [engines.json](https://github.com/bwiernik/zotero-tools/blob/master/engines.json) by [bwiernik](https://github.com/bwiernik) instead.
 - Noted: the **FireTray** plugin seems to be outdated and doesn't work on _Win10 21H2 19044.1526_. Correct me if I'm wrong.
-- Other plugins' repo: [Zutilo](https://github.com/wshanks/Zutilo/releases), [Zotero Scholar Citations](https://github.com/beloglazov/zotero-scholar-citations/raw/master/builds/zotero-scholar-citations-1.9.3-fx.xpi) and [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner/releases/)
+- Plugin repo release:
+  1. [ZotFile](https://github.com/jlegewie/zotfile/releases/)
+  2. [Zutilo](https://github.com/wshanks/Zutilo/releases)
+  3. [Zotero Scholar Citations](https://github.com/beloglazov/zotero-scholar-citations/raw/master/builds/zotero-scholar-citations-1.9.3-fx.xpi)
+  4. [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner/releases/)
+  5. [zotero-mdnotes](https://github.com/argenos/zotero-mdnotes/releases/)
+  6. [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/releases/)
