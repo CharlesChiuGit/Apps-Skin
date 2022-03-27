@@ -21,8 +21,8 @@
 7. In Zotero -> `Edit` -> `Perferences` -> `Advanced` -> `Files and Folders`
    - In `Linked Attachment Base Directory`, make sure the "Base directory" is empty.
    - In `Data Directory Location`, leave as default.
-8. For iOS & iPadOS users, open the app -> Settings -> Account -> FILE SYNCING
-   - change the "Sync attachment files in My Library using" **WebDAV** -> fill the info -> click "Verify Server"
+8. For iOS & iPadOS users, open the app -> `Settings` -> `Account` -> `FILE SYNCING`
+   - change the "Sync attachment files in My Library using" **WebDAV** -> fill the info -> click `Verify Server`
 
 ### Plugins
 
