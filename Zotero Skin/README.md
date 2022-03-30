@@ -28,8 +28,10 @@
 
 - For Zotero 6, use these plugins:
   1. [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex/releases/)
-  2. (Optional) [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner/releases/)
-  3. (Optional) [Zotero Scholar Citations](https://github.com/beloglazov/zotero-scholar-citations/raw/master/builds/zotero-scholar-citations-1.9.3-fx.xpi)
+  2. [scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin)
+  3. [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi)
+  4. (Optional) [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner/releases/)
+  5. (Optional) [Zotero Scholar Citations](https://github.com/beloglazov/zotero-scholar-citations/raw/master/builds/zotero-scholar-citations-1.9.3-fx.xpi)
 
 ---
 
